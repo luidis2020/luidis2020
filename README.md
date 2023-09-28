@@ -1,12 +1,12 @@
-<img align="right" alt="Logo Image" height="380" src="[https://user-images.githubusercontent.com/97471199/230774187-e482399b-492c-4c17-a831-0314bf90526e.png](https://images.unsplash.com/photo-1519802772250-a52a9af0eacb?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)">
+<img align="right" alt="Logo Image" height="380" src="https://images.unsplash.com/photo-1519802772250-a52a9af0eacb?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600">
 
 <h1>
     <a href="https://luidis2020.github.io/">
-     <img align="center" alt="Logo Luis Gustavo" width="36px" src="[https://user-images.githubusercontent.com/97471199/230773934-2eeb538d-d992-4199-872e-117c1c635d81.png](https://images.unsplash.com/photo-1519802772250-a52a9af0eacb?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600)"></a>
+     <img align="center" alt="" width="36px" src="https://images.unsplash.com/photo-1519802772250-a52a9af0eacb?ixlib=rb-4.0.3&q=85&fm=jpg&crop=entropy&cs=srgb&w=3600"></a>
     <span>Luidi</span>
 </h1>
 
-<p align="justify">Living and traveling in the Universe, based on Earth, São Paulo, Brazil. Researcher of Renewable Energy Integration in the Distribution Electrical Systems. 
+<p align="justify">Living and traveling in the universe, based on Earth, São Paulo, Brazil. Researcher of Renewable Energy Integration in the Distribution Electrical Systems. 
 <br>
  Life is a continuos learning with grace, love and hope.
 <!--
@@ -15,7 +15,7 @@
 -->
 <h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/elidianaandrade/](https://www.linkedin.com/in/luis-g-c-bautista-90994243/))
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)]([https://www.linkedin.com/in/luis-g-c-bautista-90994243/])
 
 <h3 align="left">GitHub Stats</h3>
 
