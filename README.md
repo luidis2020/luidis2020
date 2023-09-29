@@ -25,37 +25,8 @@
 
 
 
-## Linguagens de Programação
-<table>
-  <thead>
-    <tr align="left">
-      <th>Badge</th>
-      <th>Markdown</th>
-    </tr>
-  </thead>
-  <tbody align="left">
-   
-    <tr>
-      <td>
-        <img align="center" alt="OpenDSS" src="[https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sba.org.br%2Fopen_journal_systems%2Findex.php%2Fcba%2Farticle%2Fdownload%2F1582%2F1475%2F&psig=AOvVaw2k5kUehwOm3BR6CiWi-O9P&ust=1696087373481000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDom_2P0IEDFQAAAAAdAAAAABAE)">
-      </td>
-      <td>
-        <code>![OpenDSS][(https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sba.org.br%2Fopen_journal_systems%2Findex.php%2Fcba%2Farticle%2Fdownload%2F1582%2F1475%2F&psig=AOvVaw2k5kUehwOm3BR6CiWi-O9P&ust=1696087373481000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDom_2P0IEDFQAAAAAdAAAAABAE))</code>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
-      </td>
-      <td>
-        <code>![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)</code>
-      </td>
-    </tr>
-      
-   
-  </tbody>
-  <tfoot></tfoot>
-</table>
+## Language Programming
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
 
 
 
