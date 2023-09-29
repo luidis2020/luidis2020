@@ -27,6 +27,7 @@
 
 ## Language Programming
 ![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![OpenDSS](https://a.fsdn.com/allura/p/electricdss/icon?1665923992?&w=90)
 
 
 
