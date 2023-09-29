@@ -23,6 +23,43 @@
 <!--[![Most Used Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=luidis2020&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,css&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true)](https://github.com/luidis2020/github-readme-stats)-->
 <br>
 
+
+
+## Linguagens de Programação
+<table>
+  <thead>
+    <tr align="left">
+      <th>Badge</th>
+      <th>Markdown</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+   
+    <tr>
+      <td>
+        <img align="center" alt="OpenDSS" src="[https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sba.org.br%2Fopen_journal_systems%2Findex.php%2Fcba%2Farticle%2Fdownload%2F1582%2F1475%2F&psig=AOvVaw2k5kUehwOm3BR6CiWi-O9P&ust=1696087373481000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDom_2P0IEDFQAAAAAdAAAAABAE)">
+      </td>
+      <td>
+        <code>![OpenDSS][(https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.sba.org.br%2Fopen_journal_systems%2Findex.php%2Fcba%2Farticle%2Fdownload%2F1582%2F1475%2F&psig=AOvVaw2k5kUehwOm3BR6CiWi-O9P&ust=1696087373481000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCIDom_2P0IEDFQAAAAAdAAAAABAE))</code>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img align="center" alt="Python" src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python">
+      </td>
+      <td>
+        <code>![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)</code>
+      </td>
+    </tr>
+      
+   
+  </tbody>
+  <tfoot></tfoot>
+</table>
+
+
+
+
 <details align="left">
   <summary></summary> 
  
