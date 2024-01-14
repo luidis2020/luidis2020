@@ -6,7 +6,7 @@
     <span>Luidi</span>
 </h1>
 
-<p align="justify">Living and traveling in the universe, based on Earth, São Paulo, Brazil. Researcher of Renewable Energy Integration in the Distribution Electrical Systems. 
+<p align="justify">Living and traveling in the universe. Rearcher of Renewable Energy Integration in the Distribution Electrical Systems. 
 <br>
  Life is a continuos learning with grace, love and hope.
 <!--
